@@ -1,0 +1,9 @@
+[
+  {
+    "id": "E001",
+    "child_id": "C001",
+    "guardian_id": "G001",
+    "start_date": "2025-06-28",
+    "status": "Active"
+  }
+]
